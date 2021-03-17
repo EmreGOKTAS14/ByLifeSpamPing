@@ -1,0 +1,10 @@
+C:\Users\emre\source\repos\SpamPing\SpamPing\bin\Debug\SpamPing.exe.config
+C:\Users\emre\source\repos\SpamPing\SpamPing\bin\Debug\SpamPing.exe
+C:\Users\emre\source\repos\SpamPing\SpamPing\bin\Debug\SpamPing.pdb
+C:\Users\emre\source\repos\SpamPing\SpamPing\obj\Debug\SpamPing.csprojAssemblyReference.cache
+C:\Users\emre\source\repos\SpamPing\SpamPing\obj\Debug\SpamPing.Form1.resources
+C:\Users\emre\source\repos\SpamPing\SpamPing\obj\Debug\SpamPing.Properties.Resources.resources
+C:\Users\emre\source\repos\SpamPing\SpamPing\obj\Debug\SpamPing.csproj.GenerateResource.cache
+C:\Users\emre\source\repos\SpamPing\SpamPing\obj\Debug\SpamPing.csproj.CoreCompileInputs.cache
+C:\Users\emre\source\repos\SpamPing\SpamPing\obj\Debug\SpamPing.exe
+C:\Users\emre\source\repos\SpamPing\SpamPing\obj\Debug\SpamPing.pdb
